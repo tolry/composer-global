@@ -1,0 +1,7 @@
+{
+    "require": {
+        "asm89/twig-lint": "@stable",
+        "kherge/box": "~2.4",
+        "fabpot/php-cs-fixer": "~1.1"
+    }
+}
