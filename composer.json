@@ -2,6 +2,8 @@
     "require": {
         "asm89/twig-lint": "@stable",
         "kherge/box": "~2.4",
-        "fabpot/php-cs-fixer": "~1.1"
+        "fabpot/php-cs-fixer": "~1.1",
+        "squizlabs/php_codesniffer": "@stable",
+        "phpmd/phpmd": "@stable"
     }
 }
