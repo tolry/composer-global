@@ -3,3 +3,6 @@ bin
 vendor
 cache
 .htaccess
+*-old.phar
+config.json
+auth.json
