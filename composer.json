@@ -5,6 +5,7 @@
         "fabpot/php-cs-fixer": "~1.1",
         "instaclick/php-code-sniffer": "@stable",
         "phpmd/phpmd": "@stable",
-        "phpunit/phpunit": "@stable"
+        "phpunit/phpunit": "@stable",
+        "pyrech/composer-changelogs": "^1.1"
     }
 }
