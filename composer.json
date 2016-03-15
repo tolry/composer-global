@@ -3,7 +3,7 @@
         "asm89/twig-lint": "@stable",
         "kherge/box": "~2.4",
         "fabpot/php-cs-fixer": "~1.1",
-        "instaclick/php-code-sniffer": "@stable",
+        "squizlabs/php_codesniffer": "@stable",
         "phpmd/phpmd": "@stable",
         "phpunit/phpunit": "@stable",
         "pyrech/composer-changelogs": "^1.1"
