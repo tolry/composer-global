@@ -6,6 +6,7 @@
         "squizlabs/php_codesniffer": "@stable",
         "phpmd/phpmd": "@stable",
         "phpunit/phpunit": "@stable",
-        "pyrech/composer-changelogs": "^1.1"
+        "pyrech/composer-changelogs": "^1.1",
+        "hirak/prestissimo": "^0.1.18"
     }
 }
